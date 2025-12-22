@@ -1,5 +1,41 @@
- body { background-color: #f0bed2; font-family: 'Montserrat', sans-serif; color: #db2777; }
-        h1 { color: rgb(117, 9, 65); }
-        div { padding: 50px; } 
-       
-  
+ body {
+        background-color: #f4d0de; 
+        font-family: 'Jetbrains Mono', monospace; 
+        color: #dc156e; 
+        font-size: 20px;
+}
+main {
+       max-width: 650px;
+       margin: 30px auto;
+       padding: 80px;
+       background-color: #ffffff;
+       border-radius: 15px;
+       text-align: center;
+       box-shadow: 0 4px 8px rgb(241, 51, 101);
+}
+h1 { 
+       font-size: 55px;
+       color: rgb(241, 51, 101); 
+       font-family: 'Jetbrains mono', monospace;
+}
+
+h2 {
+       color: #7a0b53;
+}
+   
+img {
+       border: 5px solid #dc156e;
+       border-radius: 10px;
+       width: 200px;
+       height: 250px;
+}
+
+ul {
+       list-style: none;
+       padding: 0;
+}
+
+li::before {
+       content: "✨  ";    
+
+}
