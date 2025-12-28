@@ -1,2 +1,5 @@
-a fun and quirky profile page- my first website
+# Personal Profile Page.
+
+A Simple profile page created using HTML and CSS styling. 
+
 
