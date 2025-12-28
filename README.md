@@ -1,2 +1,2 @@
-# personal profile page
+a fun and quirky profile page- my first website
 
